@@ -1,3 +1,4 @@
 https://tinyurl.com/3ar3u6xx
 https://vortraege.syneweb.com/videos.php?videopath=videos/PHP/
+https://github.com/sneedmon/Motorradteile_LAP
 Wenn ein Null möglich ist verwenden wir ein LEFT JOIN
